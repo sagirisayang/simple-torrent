@@ -1,0 +1,9 @@
+  
+services:
+# A Docker web service
+- type: web
+  name: simple-torrent
+  env: docker
+  repo: https://github.com/sagirisayang/simple-torrent # optional
+  plan: starter              # optional
+  branch: master              # optional (uses repo default)
