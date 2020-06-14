@@ -75,3 +75,5 @@ See Wiki [Behind WebServer (reverse proxying)](https://github.com/boypt/simple-t
 # Credits 
 * Credits to @jpillora for [Cloud Torrent](https://github.com/jpillora/cloud-torrent).
 * Credits to @anacrolix for https://github.com/anacrolix/torrent
+
+[Created by me](https://render.com/deploy?repo=https://github.com/sagirisayang/simple-torrent)
